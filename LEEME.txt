@@ -1,0 +1,6 @@
+CAMINO 3.6 — Pie de página minimalista
+
+- Reduce mucho más el tamaño del texto del pie de página.
+- Hace la línea dorada más fina y tenue.
+- Coloca el pie casi al borde inferior de la página y reserva menos espacio.
+- Conserva las funciones y el estilo negro/dorado de CAMINO 3.5.
